@@ -1,12 +1,13 @@
 import { Theme } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
+import { Image } from '@material-ui/icons';
 import { url } from 'inspector';
 
 export const useStyles = makeStyles((theme: Theme) => ({
   background: {
     width: '100vw',
     height: '100vh',
-    backgroundimage: 'url(RaffleBG.png)',
+    backgroundImage: 'url(RaffleBG.png)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
