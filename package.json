@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "react-lottie": "^1.2.3"
+    "global": "^4.4.0",
+    "react-lottie": "^1.2.3",
+    "vercel": "^27.1.5"
   }
 }
