@@ -74,8 +74,8 @@ const Header: FC<HeaderProps> = ({ onBackNavigation }) => {
                 className={classes.homeButton}
               >
                 <img
-                  src="app\public\logo_navbar.png"
-                  alt={'Site banner'}
+                  src="logo_navbar.png"
+                  alt={''}
                   className={classes.homeButtonIcon}
                 />
               </IconButton>
