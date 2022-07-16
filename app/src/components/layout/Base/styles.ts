@@ -7,7 +7,7 @@ export const useStyles = makeStyles((theme: Theme) => ({
   background: {
     width: '100vw',
     height: '100vh',
-    backgroundImage: 'url(app/public/RaffleBG.png)',
+    backgroundImage: 'url(RaffleBG.png)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
