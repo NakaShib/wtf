@@ -36,21 +36,21 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       overviewImageUri: '/resources/PRIZE2.png',
     },
   ],
- // [
-   // '7j1HKPQKfzwqw2toHB9Px3Tw75GVsPpfNDTRhQh8zfg7',
-   // {
-    //  name: 'HIGH ROLLER #1118 PNP RAFFLE',
-   //   overviewImageUri: '/resources/PRIZE3.png',
-  //  },
-  //],
- // [
-   // '',
-   // {
-    //  name: 'HIGH JUICE RAFFLE',
-   //   overviewImageUri: '/resources/JUICELOGO.png',
-   // },
-  //],
-  //[
+  [
+    '3Jf5ix2eL1Pqzk6ESH9UqB83q7LzQ29tqAmsRp1bs2MT',
+    {
+      name: 'HIGH ROLLER #1118 $PNP RAFFLE - WAGMI DEGEN',
+      overviewImageUri: '/resources/PRIZE3.png',
+    },
+  ],
+  [
+    '8avT7STj83wQd9sEAXobj6Pmo4ZpJmQ6XzJtWyoA9Vmx',
+    {
+      name: 'HIGH JUICE #82 SOL RAFFLE',
+      overviewImageUri: '/resources/JuiceLogo.png',
+    },
+  ],
+  // [
     //'',
     //{
     //  name: 'LEDGER RAFFLE',
