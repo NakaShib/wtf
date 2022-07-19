@@ -25,7 +25,7 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
   [
     'sPcMGrTuiBz3dQ5kJu9MBj65E6qBqXpZ83VYxzMpFoj',
     {
-      name: 'HIGH ROLLER #726 PNP RAFFLE',
+      name: 'HIGH ROLLER #726 $PNP RAFFLE',
       overviewImageUri: '/resources/PRIZE1.png',
    },
   ],
@@ -36,21 +36,35 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       overviewImageUri: '/resources/PRIZE2.png',
     },
   ],
- // [
-   // '7j1HKPQKfzwqw2toHB9Px3Tw75GVsPpfNDTRhQh8zfg7',
-   // {
-    //  name: 'HIGH ROLLER #1118 PNP RAFFLE',
-   //   overviewImageUri: '/resources/PRIZE3.png',
-  //  },
-  //],
- // [
-   // '',
-   // {
-    //  name: 'HIGH JUICE RAFFLE',
-   //   overviewImageUri: '/resources/JUICELOGO.png',
-   // },
-  //],
-  //[
+  [
+    '3Jf5ix2eL1Pqzk6ESH9UqB83q7LzQ29tqAmsRp1bs2MT',
+    {
+      name: 'HIGH ROLLER #1118 $PNP RAFFLE - WAGMI DEGEN',
+      overviewImageUri: '/resources/PRIZE3.png',
+    },
+  ],
+  [
+    '8avT7STj83wQd9sEAXobj6Pmo4ZpJmQ6XzJtWyoA9Vmx',
+    {
+      name: 'HIGH JUICE #82 SOL RAFFLE',
+      overviewImageUri: '/resources/JuiceLogo.png',
+    },
+  ],
+  [
+    'ANNkhEQSF3qhuvCsyaNCwkDw1SeeTNexpX23urmnWvT3',
+    {
+      name: 'Degen Town #4757 $PNP Raffle',
+      overviewImageUri: '/resources/PRIZE4.png',
+    },
+  ],
+  [
+    '5Rt721pRmCLu3Up6NPZNH5gzVBDJovXiJgGEfJToq7oe',
+    {
+      name: 'SOLcrash #648 Raffle',
+      overviewImageUri: '/resources/PRIZE5.png',
+    },
+  ],
+  // [
     //'',
     //{
     //  name: 'LEDGER RAFFLE',

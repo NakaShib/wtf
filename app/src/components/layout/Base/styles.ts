@@ -1,12 +1,13 @@
 import { Theme } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import { url } from 'inspector';
 
+const RaffleBG = 'url(RaffleBG.png)';
 export const useStyles = makeStyles((theme: Theme) => ({
   background: {
     width: '100vw',
     height: '100vh',
-    backgroundImage: 'url(rafflebg.png)',
+    backgroundImage: RaffleBG,
+    background: '#24252cc2',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
