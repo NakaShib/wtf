@@ -50,6 +50,20 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       overviewImageUri: '/resources/JuiceLogo.png',
     },
   ],
+  [
+    'ANNkhEQSF3qhuvCsyaNCwkDw1SeeTNexpX23urmnWvT3',
+    {
+      name: 'Degen Town #4757 $PNP Raffle',
+      overviewImageUri: '/resources/PRIZE4.png',
+    },
+  ],
+  [
+    '5Rt721pRmCLu3Up6NPZNH5gzVBDJovXiJgGEfJToq7oe',
+    {
+      name: 'SOLcrash #648 Raffle',
+      overviewImageUri: '/resources/PRIZE5.png',
+    },
+  ],
   // [
     //'',
     //{
