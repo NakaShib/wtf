@@ -1,7 +1,10 @@
 {
   "dependencies": {
     "global": "^4.4.0",
+<<<<<<< Updated upstream
     "react-lottie": "^1.2.3",
+=======
+>>>>>>> Stashed changes
     "vercel": "^27.1.5"
   }
 }
